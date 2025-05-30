@@ -1,0 +1,5 @@
+flask
+pyjwt
+joblib
+numpy
+sqlalchemy
