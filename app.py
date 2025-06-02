@@ -11,4 +11,4 @@ app.register_blueprint(predict_bp)
 Base.metadata.create_all(engine)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
